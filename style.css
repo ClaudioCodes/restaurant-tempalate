@@ -107,3 +107,18 @@ body, h1,h2,h3,h4.h5 {
     height: 60px;
     font-size: 1.8rem;
 }
+.container-50{
+    display: flex;
+    float:left;
+    width: 50%;
+    height:100%;
+    margin-bottom: 1rem;
+    padding:0;
+}
+
+.floater{
+    display: flex;
+    float:inline-start;
+    width:100%;
+
+}
