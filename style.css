@@ -102,3 +102,8 @@ body, h1,h2,h3,h4.h5 {
 .menu h1 {
     color: black;
 }
+
+.extra-large{
+    height: 60px;
+    font-size: 1.8rem;
+}
